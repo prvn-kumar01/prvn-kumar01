@@ -62,5 +62,3 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=prvn-kumar01.prvn-kumar01&"  />
 </div>
 
-###
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Karma&ext=heatmap)
