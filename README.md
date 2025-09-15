@@ -54,9 +54,6 @@
 </div>
 
 ###
-###
-![LeetCode Stats](https://leetcard.jacoblin.cool/prvn-kumar01?theme=dark&font=Karma&ext=heatmap)
-###
 
 
 ###
