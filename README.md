@@ -6,7 +6,9 @@
 
 ###
 
-<h4 align="left">"As an aspiring Data Scientist and Machine Learning enthusiast, I am passionate about leveraging data-driven insights to solve complex problems. With a solid foundation in statistical analysis, data visualization, and algorithm development, I strive to continuously expand my knowledge in advanced machine learning techniques, artificial intelligence, and data engineering. My goal is to contribute to innovative projects and collaborate with like-minded professionals to drive impactful, data-powered solutions."</h4>
+<h4 align="left">"ML & AI Engineer | Passionate about LLMs, Agentic AI, and end-to-end ML systems.
+I build things that learn, reason, and ship to production.
+Open to research collabs and interesting problems."</h4>
 
 ###
 
