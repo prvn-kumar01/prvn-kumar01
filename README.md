@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">"ML & AI Engineer | Passionate about LLMs, Agentic AI, and end-to-end ML systems.
+<h4 align="left">"AI & ML Engineer | Passionate about LLMs, Agentic AI, and end-to-end ML systems.
 I build things that learn, reason, and ship to production.
 Open to research collabs and interesting problems."</h4>
 
